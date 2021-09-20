@@ -1,2 +1,3 @@
 # MyProjects
-Repository for personal projects
+
+Welcome to my repository for personal projects
