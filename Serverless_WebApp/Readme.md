@@ -2,7 +2,7 @@
 
 https://dev.d18ijiybxldqhp.amplifyapp.com/ 
 
-When a user clicks on a button in the web app, it makes a call to our API, which triggers our Lambda function. Our Lambda function writes to a database and returns a message to our client via API Gateway. All permissions are managed by IAM.
+When a user clicks on a button in the web app, it makes a call to an API, which triggers a Lambda function. The Lambda function writes to a database and returns a message to our client via API Gateway. All permissions are managed by IAM.
 
 
 
