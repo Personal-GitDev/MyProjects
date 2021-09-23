@@ -1,4 +1,4 @@
-# **Queue-based Microservice 
+# **Queue-based Microservice** 
 
 This will simulate inventory verification requests from incoming orders in an e-commerce application as part of an order processing workflow. Step Functions will send inventory verification requests to a queue on SQS. An AWS Lambda function will act as your inventory microservice that uses a queue to buffer requests. When it retrieves a request, it will check inventory and then return the result to Step Functions
 
