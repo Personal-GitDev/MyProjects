@@ -1,5 +1,7 @@
 # **Build a Modern Web Application in Python** 
 
+http://mythical-mysfits-bucket-name-here.s3-website-us-east-1.amazonaws.com/index.html
+
  A sample website called Mythical Mysfits that enables visitors to adopt a fantasy creature (mysfit) as pet. This web application is hosted on a front-end web server and connected to a backend database, with user authentication and the ability to collect and analyze user behavior.
  
  
